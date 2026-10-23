@@ -1,31 +1,13 @@
-JOURNEY CAMBODIA — GITHUB PAGES V12
+Cambodiatransportation website package
 
-This is the complete GitHub Pages package.
+Open index.html in a browser or deploy the package contents to your web host.
+Supporting video, music, logos, and temple sketch assets are included in this folder.
 
-UPLOAD STRUCTURE
-----------------
-Upload EVERYTHING inside this folder to the ROOT of your GitHub repository:
+Booking payment notice:
+Payment arrangements will be discussed with the team via WhatsApp or email once the booking has been confirmed. No payment is required when submitting the initial booking request. Customers can reply “PAY” to discuss payment.
 
-index.html
-assets/
-  Camvdo.mp4
-  journey-cambodia-arrival-poster.jpg
-  tours/
-    angkor-adventure-hero.jpg
-    angkor-discovery-hero.jpg
-    angkor-essential-hero.jpg
-    kok-ker-hero.jpg
+Place search requires an internet connection. Browser autoplay restrictions may require customers to press Play.
 
-IMPORTANT
----------
-Do NOT upload only index.html. The assets folder is required, especially:
-assets/Camvdo.mp4
-
-After committing, open:
-https://varmanchanthou.github.io/JC/
-
-If the video is still cached by the browser, hard refresh the page (Ctrl+Shift+R on Windows) or open it in a private/incognito window.
-
-The video uses a relative GitHub Pages-safe path:
-./assets/Camvdo.mp4?v=12
-and includes a direct video fallback link.
+Price update (October 2026): Siem Reap-origin destination fares updated per supplied +$5 list; Tour Transportation reference table uses the July 2026 source prices and excludes Town and Airport transfer.
+Updated reference PDF included: Tour Transportation - Reference Prices.pdf
+It follows the supplied July 2026 price list and omits Town and Airport transfer rows.
